@@ -1,0 +1,123 @@
+# ============================================================
+# Shuttle Insights - Automated Data Update Workflow
+# ============================================================
+#
+# This workflow automatically scrapes badminton rankings and events
+# from Wikipedia and commits the updated data to the repository.
+#
+# TRIGGERS:
+#   1. Scheduled: Every Monday at 8:00 AM UTC
+#   2. Manual: Click "Run workflow" button in GitHub Actions tab
+#
+# WHAT IT DOES:
+#   1. Checks out your repository code
+#   2. Sets up Node.js environment
+#   3. Installs dependencies (axios, cheerio)
+#   4. Runs the scraping script
+#   5. If data changed, commits and pushes the new JSON files
+#
+# ============================================================
+
+name: Update Badminton Data
+
+# ============ TRIGGERS ============
+on:
+  # Scheduled trigger - runs automatically
+  schedule:
+    # Cron syntax: minute hour day-of-month month day-of-week
+    # "0 8 * * 1" = Every Monday at 8:00 AM UTC
+    - cron: "0 8 * * 1"
+
+  # Manual trigger - allows you to run it anytime from GitHub UI
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: "Reason for manual run (optional)"
+        required: false
+        default: "Manual update"
+
+# ============ JOBS ============
+jobs:
+  update-data:
+    # Run on Ubuntu (GitHub's free Linux runner)
+    runs-on: ubuntu-latest
+
+    # Permissions needed to push changes back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      # ---- Step 1: Checkout Repository ----
+      # This downloads your code to the runner
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history (needed for git operations)
+          fetch-depth: 0
+
+      # ---- Step 2: Setup Node.js ----
+      # Installs Node.js so we can run the scraping script
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # ---- Step 3: Install Dependencies ----
+      # Install axios (HTTP requests) and cheerio (HTML parsing)
+      - name: Install scraping dependencies
+        run: |
+          cd scripts
+          npm init -y
+          npm install axios cheerio
+        # Note: We install in scripts folder to keep it isolated
+
+      # ---- Step 4: Run Scraping Script ----
+      # This is where the actual scraping happens
+      - name: Run scraping script
+        run: node scripts/scrape-data.js
+
+      # ---- Step 5: Check for Changes ----
+      # See if the JSON files were actually updated
+      - name: Check for changes
+        id: changes
+        run: |
+          git add data/
+          if git diff --staged --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected in data files"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in data files"
+          fi
+
+      # ---- Step 6: Commit and Push ----
+      # Only runs if there are actual changes
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Update badminton data [automated]
+
+          - Rankings and events data updated from Wikipedia
+          - Triggered by: ${{ github.event_name }}
+          - Run reason: ${{ github.event.inputs.reason || 'Scheduled update' }}"
+          git push
+
+      # ---- Step 7: Summary ----
+      # Prints a summary to the Actions log
+      - name: Print summary
+        run: |
+          echo "=========================================="
+          echo "  DATA UPDATE COMPLETE"
+          echo "=========================================="
+          echo "  Trigger: ${{ github.event_name }}"
+          echo "  Changes: ${{ steps.changes.outputs.changed }}"
+          echo "  Time: $(date -u)"
+          echo "=========================================="
+          echo ""
+          echo "Rankings file:"
+          head -20 data/rankings.json
+          echo ""
+          echo "Events file:"
+          head -20 data/events.json
