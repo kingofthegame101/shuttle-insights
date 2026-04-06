@@ -1,16 +1,86 @@
 {
-  "lastUpdated": "2026-03-30T00:00:00.000Z",
-  "source": "Initial data from mockData.ts",
+  "lastUpdated": "2026-04-06T09:10:06.485Z",
+  "source": "Wikipedia BWF World Ranking",
   "rankings": [
-    { "rank": 1, "name": "Viktor Axelsen", "country": "Denmark", "countryCode": "DEN", "points": 112450, "change": 0 },
-    { "rank": 2, "name": "Kunlavut Vitidsarn", "country": "Thailand", "countryCode": "THA", "points": 98320, "change": 1 },
-    { "rank": 3, "name": "Shi Yu Qi", "country": "China", "countryCode": "CHN", "points": 95100, "change": -1 },
-    { "rank": 4, "name": "Anders Antonsen", "country": "Denmark", "countryCode": "DEN", "points": 89750, "change": 2 },
-    { "rank": 5, "name": "Jonatan Christie", "country": "Indonesia", "countryCode": "INA", "points": 86400, "change": 0 },
-    { "rank": 6, "name": "Kodai Naraoka", "country": "Japan", "countryCode": "JPN", "points": 84200, "change": -2 },
-    { "rank": 7, "name": "Loh Kean Yew", "country": "Singapore", "countryCode": "SGP", "points": 81900, "change": 1 },
-    { "rank": 8, "name": "Lee Zii Jia", "country": "Malaysia", "countryCode": "MAS", "points": 79500, "change": -1 },
-    { "rank": 9, "name": "Chou Tien Chen", "country": "Chinese Taipei", "countryCode": "TPE", "points": 77200, "change": 0 },
-    { "rank": 10, "name": "Lakshya Sen", "country": "India", "countryCode": "IND", "points": 75800, "change": 1 }
+    {
+      "rank": 1,
+      "name": "Thailand",
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 100779,
+      "change": 0
+    },
+    {
+      "rank": 2,
+      "name": "Shi Yuqi",
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 100567,
+      "change": 0
+    },
+    {
+      "rank": 3,
+      "name": "Denmark",
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 93729,
+      "change": 0
+    },
+    {
+      "rank": 4,
+      "name": "Indonesia",
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 84174,
+      "change": 0
+    },
+    {
+      "rank": 5,
+      "name": "France",
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 81925,
+      "change": 0
+    },
+    {
+      "rank": 6,
+      "name": "Chinese Taipei",
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 79239,
+      "change": 0
+    },
+    {
+      "rank": 7,
+      "name": "Li Shifeng",
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 77478,
+      "change": 0
+    },
+    {
+      "rank": 8,
+      "name": "Chinese Taipei",
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 73318,
+      "change": 0
+    },
+    {
+      "rank": 9,
+      "name": "France",
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 72725,
+      "change": 0
+    },
+    {
+      "rank": 10,
+      "name": "Japan",
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 69654,
+      "change": 0
+    }
   ]
 }

@@ -1,55 +1,111 @@
 {
-  "lastUpdated": "2026-03-30T00:00:00.000Z",
-  "source": "Initial data from mockData.ts",
+  "lastUpdated": "2026-04-06T09:10:06.951Z",
+  "source": "Wikipedia 2026 BWF World Tour",
   "events": [
     {
-      "name": "All England Open 2026",
-      "date": "Mar 11-16, 2026",
-      "location": "Birmingham, UK",
-      "tier": "Super 1000",
-      "link": "https://bwfbadminton.com/tournament/4742/yonex-all-england-open-2026"
+      "name": "Malaysia Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
     },
     {
-      "name": "India Open 2026",
-      "date": "Mar 25-30, 2026",
-      "location": "New Delhi, India",
-      "tier": "Super 750",
-      "link": "https://bwfbadminton.com/tournament/4744/yonex-sunrise-india-open-2026"
+      "name": "All England Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
     },
     {
-      "name": "Malaysia Open 2026",
-      "date": "Apr 8-13, 2026",
-      "location": "Kuala Lumpur, Malaysia",
-      "tier": "Super 1000",
-      "link": "https://bwfbadminton.com/tournament/4746/malaysia-open-2026"
+      "name": "Indonesia Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
     },
     {
-      "name": "Singapore Open 2026",
-      "date": "Apr 22-27, 2026",
-      "location": "Singapore",
-      "tier": "Super 750",
-      "link": "https://bwfbadminton.com/tournament/4752/singapore-badminton-open-2026"
+      "name": "China Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
     },
     {
-      "name": "Thailand Open 2026",
-      "date": "May 6-11, 2026",
-      "location": "Bangkok, Thailand",
-      "tier": "Super 500",
-      "link": "https://bwfbadminton.com/tournament/4754/thailand-open-2026"
+      "name": "India Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
     },
     {
-      "name": "Indonesia Open 2026",
-      "date": "Jun 10-15, 2026",
-      "location": "Jakarta, Indonesia",
-      "tier": "Super 1000",
-      "link": "https://bwfbadminton.com/tournament/4756/indonesia-open-2026"
+      "name": "Singapore Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
     },
     {
-      "name": "BWF World Championships 2026",
-      "date": "Aug 18-24, 2026",
-      "location": "Tokyo, Japan",
-      "tier": "Major",
-      "link": "https://bwfbadminton.com/tournament/4760/bwf-world-championships-2026"
+      "name": "Japan Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
+    },
+    {
+      "name": "China Masters",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
+    },
+    {
+      "name": "Denmark Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
+    },
+    {
+      "name": "French Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
+    },
+    {
+      "name": "Indonesia Masters",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
+    },
+    {
+      "name": "Thailand Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
+    },
+    {
+      "name": "Malaysia Masters",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
+    },
+    {
+      "name": "Australian Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
+    },
+    {
+      "name": "Korea Open",
+      "date": "TBD",
+      "location": "TBD",
+      "tier": "BWF Tour",
+      "link": "https://bwfbadminton.com/"
     }
   ]
 }
