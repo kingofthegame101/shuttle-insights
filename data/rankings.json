@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T11:53:24.864Z",
+  "lastUpdated": "2026-06-01T13:36:28.331Z",
   "source": "Wikipedia BWF World Ranking",
   "rankings": [
     {
@@ -68,18 +68,18 @@
     },
     {
       "rank": 9,
-      "name": "Japan",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 69400,
+      "name": "France",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 68565,
       "change": 0
     },
     {
       "rank": 10,
-      "name": "France",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 68565,
+      "name": "India",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 68363,
       "change": 0
     }
   ]
