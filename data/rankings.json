@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T12:29:26.994Z",
+  "lastUpdated": "2026-06-15T13:56:04.241Z",
   "source": "Wikipedia BWF World Ranking",
   "rankings": [
     {
@@ -7,39 +7,39 @@
       "name": "Shi Yuqi",
       "country": "Steady",
       "countryCode": "STE",
-      "points": 108905,
+      "points": 105305,
       "change": 0
     },
     {
       "rank": 2,
-      "name": "Denmark",
+      "name": "Thailand",
       "country": "Increase",
       "countryCode": "INC",
-      "points": 95455,
+      "points": 92565,
       "change": 0
     },
     {
       "rank": 3,
-      "name": "Thailand",
+      "name": "Denmark",
       "country": "Decrease",
       "countryCode": "DEC",
-      "points": 93565,
+      "points": 91155,
       "change": 0
     },
     {
       "rank": 4,
-      "name": "France",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 84462,
+      "name": "Indonesia",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 88431,
       "change": 0
     },
     {
       "rank": 5,
-      "name": "Indonesia",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 83631,
+      "name": "France",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 84462,
       "change": 0
     },
     {
@@ -47,19 +47,11 @@
       "name": "Chinese Taipei",
       "country": "Steady",
       "countryCode": "STE",
-      "points": 82080,
+      "points": 80280,
       "change": 0
     },
     {
       "rank": 7,
-      "name": "Li Shifeng",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 74783,
-      "change": 0
-    },
-    {
-      "rank": 8,
       "name": "France",
       "country": "Increase",
       "countryCode": "INC",
@@ -67,19 +59,27 @@
       "change": 0
     },
     {
-      "rank": 9,
-      "name": "Chinese Taipei",
+      "rank": 8,
+      "name": "Li Shifeng",
       "country": "Decrease",
       "countryCode": "DEC",
-      "points": 69414,
+      "points": 73083,
+      "change": 0
+    },
+    {
+      "rank": 9,
+      "name": "Canada",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 72915,
       "change": 0
     },
     {
       "rank": 10,
-      "name": "India",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 69373,
+      "name": "Chinese Taipei",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 69414,
       "change": 0
     }
   ]
