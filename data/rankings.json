@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T10:52:28.400Z",
+  "lastUpdated": "2026-07-27T11:22:00.532Z",
   "source": "Wikipedia BWF World Ranking",
   "rankings": [
     {
@@ -7,7 +7,7 @@
       "name": "Shi Yuqi",
       "country": "Steady",
       "countryCode": "STE",
-      "points": 105305,
+      "points": 100355,
       "change": 0
     },
     {
@@ -39,7 +39,7 @@
       "name": "France",
       "country": "Steady",
       "countryCode": "STE",
-      "points": 84682,
+      "points": 87982,
       "change": 0
     },
     {
@@ -52,34 +52,34 @@
     },
     {
       "rank": 7,
-      "name": "France",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 74525,
-      "change": 0
-    },
-    {
-      "rank": 8,
       "name": "Li Shifeng",
-      "country": "Steady",
-      "countryCode": "STE",
+      "country": "Increase",
+      "countryCode": "INC",
       "points": 73083,
       "change": 0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Canada",
-      "country": "Steady",
-      "countryCode": "STE",
+      "country": "Increase",
+      "countryCode": "INC",
       "points": 71865,
       "change": 0
     },
     {
+      "rank": 9,
+      "name": "France",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 70215,
+      "change": 0
+    },
+    {
       "rank": 10,
-      "name": "Indonesia",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 68409,
+      "name": "Japan",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 69670,
       "change": 0
     }
   ]
