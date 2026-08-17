@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T09:21:06.068Z",
+  "lastUpdated": "2026-08-17T08:42:43.216Z",
   "source": "Wikipedia BWF World Ranking",
   "rankings": [
     {
@@ -61,24 +61,24 @@
     {
       "rank": 8,
       "name": "Chinese Taipei",
-      "country": "Increase",
-      "countryCode": "INC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 71274,
       "change": 0
     },
     {
       "rank": 9,
       "name": "Li Shifeng",
-      "country": "Decrease",
-      "countryCode": "DEC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 70483,
       "change": 0
     },
     {
       "rank": 10,
       "name": "France",
-      "country": "Decrease",
-      "countryCode": "DEC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 70215,
       "change": 0
     }
