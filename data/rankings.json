@@ -1,85 +1,85 @@
 {
-  "lastUpdated": "2026-08-24T08:48:01.355Z",
+  "lastUpdated": "2026-08-31T15:53:31.945Z",
   "source": "Wikipedia BWF World Ranking",
   "rankings": [
     {
       "rank": 1,
-      "name": "Shi Yuqi",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 94255,
+      "name": "Indonesia",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 87631,
       "change": 0
     },
     {
       "rank": 2,
-      "name": "Thailand",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 91215,
-      "change": 0
-    },
-    {
-      "rank": 3,
-      "name": "Indonesia",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 89231,
-      "change": 0
-    },
-    {
-      "rank": 4,
-      "name": "Denmark",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 87705,
-      "change": 0
-    },
-    {
-      "rank": 5,
       "name": "France",
-      "country": "Steady",
-      "countryCode": "STE",
+      "country": "Increase",
+      "countryCode": "INC",
       "points": 87002,
       "change": 0
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "name": "Thailand",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 86915,
+      "change": 0
+    },
+    {
+      "rank": 4,
       "name": "Chinese Taipei",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 84280,
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 86580,
+      "change": 0
+    },
+    {
+      "rank": 5,
+      "name": "Denmark",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 85405,
+      "change": 0
+    },
+    {
+      "rank": 6,
+      "name": "Shi Yuqi",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 84075,
       "change": 0
     },
     {
       "rank": 7,
-      "name": "Canada",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 77045,
+      "name": "France",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 78715,
       "change": 0
     },
     {
       "rank": 8,
-      "name": "Chinese Taipei",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 71274,
+      "name": "Japan",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 76530,
       "change": 0
     },
     {
       "rank": 9,
-      "name": "Li Shifeng",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 70483,
+      "name": "Canada",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 76645,
       "change": 0
     },
     {
       "rank": 10,
-      "name": "France",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 70215,
+      "name": "Li Shifeng",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 71683,
       "change": 0
     }
   ]
