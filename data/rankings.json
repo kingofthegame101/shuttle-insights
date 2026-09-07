@@ -1,84 +1,84 @@
 {
-  "lastUpdated": "2026-08-31T15:53:31.945Z",
+  "lastUpdated": "2026-09-07T14:01:20.563Z",
   "source": "Wikipedia BWF World Ranking",
   "rankings": [
     {
       "rank": 1,
       "name": "Indonesia",
-      "country": "Increase",
-      "countryCode": "INC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 87631,
       "change": 0
     },
     {
       "rank": 2,
       "name": "France",
-      "country": "Increase",
-      "countryCode": "INC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 87002,
       "change": 0
     },
     {
       "rank": 3,
       "name": "Thailand",
-      "country": "Decrease",
-      "countryCode": "DEC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 86915,
       "change": 0
     },
     {
       "rank": 4,
       "name": "Chinese Taipei",
-      "country": "Increase",
-      "countryCode": "INC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 86580,
       "change": 0
     },
     {
       "rank": 5,
       "name": "Denmark",
-      "country": "Decrease",
-      "countryCode": "DEC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 85405,
       "change": 0
     },
     {
       "rank": 6,
       "name": "Shi Yuqi",
-      "country": "Decrease",
-      "countryCode": "DEC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 84075,
       "change": 0
     },
     {
       "rank": 7,
       "name": "France",
-      "country": "Increase",
-      "countryCode": "INC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 78715,
       "change": 0
     },
     {
       "rank": 8,
       "name": "Japan",
-      "country": "Increase",
-      "countryCode": "INC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 76530,
       "change": 0
     },
     {
       "rank": 9,
       "name": "Canada",
-      "country": "Decrease",
-      "countryCode": "DEC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 76645,
       "change": 0
     },
     {
       "rank": 10,
       "name": "Li Shifeng",
-      "country": "Decrease",
-      "countryCode": "DEC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 71683,
       "change": 0
     }
