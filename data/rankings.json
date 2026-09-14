@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T14:01:20.563Z",
+  "lastUpdated": "2026-09-14T14:46:32.299Z",
   "source": "Wikipedia BWF World Ranking",
   "rankings": [
     {
@@ -52,18 +52,18 @@
     },
     {
       "rank": 7,
-      "name": "France",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 78715,
+      "name": "Japan",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 77540,
       "change": 0
     },
     {
       "rank": 8,
-      "name": "Japan",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 76530,
+      "name": "France",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 76985,
       "change": 0
     },
     {
@@ -76,10 +76,10 @@
     },
     {
       "rank": 10,
-      "name": "Li Shifeng",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 71683,
+      "name": "Indonesia",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 71619,
       "change": 0
     }
   ]
