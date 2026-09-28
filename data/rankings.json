@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T14:53:27.305Z",
+  "lastUpdated": "2026-09-28T16:30:41.372Z",
   "source": "Wikipedia BWF World Ranking",
   "rankings": [
     {
@@ -13,38 +13,38 @@
     {
       "rank": 2,
       "name": "Thailand",
-      "country": "Increase",
-      "countryCode": "INC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 86915,
       "change": 0
     },
     {
       "rank": 3,
       "name": "France",
-      "country": "Decrease",
-      "countryCode": "DEC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 86632,
       "change": 0
     },
     {
       "rank": 4,
       "name": "Denmark",
-      "country": "Increase",
-      "countryCode": "INC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 85405,
       "change": 0
     },
     {
       "rank": 5,
       "name": "Chinese Taipei",
-      "country": "Decrease",
-      "countryCode": "DEC",
+      "country": "Steady",
+      "countryCode": "STE",
       "points": 85200,
       "change": 0
     },
     {
       "rank": 6,
-      "name": "Shi Yuqi",
+      "name": "China",
       "country": "Steady",
       "countryCode": "STE",
       "points": 84075,
