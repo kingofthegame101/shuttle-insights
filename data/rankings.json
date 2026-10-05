@@ -1,37 +1,37 @@
 {
-  "lastUpdated": "2026-09-28T16:30:41.372Z",
+  "lastUpdated": "2026-10-05T16:51:34.245Z",
   "source": "Wikipedia BWF World Ranking",
   "rankings": [
     {
       "rank": 1,
-      "name": "Indonesia",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 87631,
-      "change": 0
-    },
-    {
-      "rank": 2,
       "name": "Thailand",
-      "country": "Steady",
-      "countryCode": "STE",
+      "country": "Increase",
+      "countryCode": "INC",
       "points": 86915,
       "change": 0
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "France",
-      "country": "Steady",
-      "countryCode": "STE",
+      "country": "Increase",
+      "countryCode": "INC",
       "points": 86632,
       "change": 0
     },
     {
+      "rank": 3,
+      "name": "Indonesia",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 84431,
+      "change": 0
+    },
+    {
       "rank": 4,
-      "name": "Denmark",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 85405,
+      "name": "China",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 84075,
       "change": 0
     },
     {
@@ -39,15 +39,15 @@
       "name": "Chinese Taipei",
       "country": "Steady",
       "countryCode": "STE",
-      "points": 85200,
+      "points": 83680,
       "change": 0
     },
     {
       "rank": 6,
-      "name": "China",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 84075,
+      "name": "Denmark",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 83655,
       "change": 0
     },
     {
@@ -79,7 +79,7 @@
       "name": "Indonesia",
       "country": "Steady",
       "countryCode": "STE",
-      "points": 71619,
+      "points": 70099,
       "change": 0
     }
   ]
