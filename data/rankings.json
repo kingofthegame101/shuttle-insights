@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T15:19:00.341Z",
+  "lastUpdated": "2026-10-26T14:53:16.921Z",
   "source": "Wikipedia BWF World Ranking",
   "rankings": [
     {
@@ -13,65 +13,65 @@
     {
       "rank": 2,
       "name": "Denmark",
-      "country": "Increase",
-      "countryCode": "INC",
-      "points": 86805,
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 90105,
       "change": 0
     },
     {
       "rank": 3,
       "name": "France",
-      "country": "Decrease",
-      "countryCode": "DEC",
-      "points": 86632,
+      "country": "Steady",
+      "countryCode": "STE",
+      "points": 88282,
       "change": 0
     },
     {
       "rank": 4,
-      "name": "Indonesia",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 85031,
+      "name": "Chinese Taipei",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 82230,
       "change": 0
     },
     {
       "rank": 5,
-      "name": "China",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 84555,
+      "name": "France",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 80285,
       "change": 0
     },
     {
       "rank": 6,
-      "name": "Chinese Taipei",
+      "name": "Indonesia",
       "country": "Decrease",
       "countryCode": "DEC",
-      "points": 85380,
+      "points": 80031,
       "change": 0
     },
     {
       "rank": 7,
-      "name": "Japan",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 78740,
+      "name": "Canada",
+      "country": "Increase",
+      "countryCode": "INC",
+      "points": 79845,
       "change": 0
     },
     {
       "rank": 8,
-      "name": "France",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 76985,
+      "name": "China",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 79525,
       "change": 0
     },
     {
       "rank": 9,
-      "name": "Canada",
-      "country": "Steady",
-      "countryCode": "STE",
-      "points": 76645,
+      "name": "Japan",
+      "country": "Decrease",
+      "countryCode": "DEC",
+      "points": 78740,
       "change": 0
     },
     {
@@ -79,7 +79,7 @@
       "name": "Indonesia",
       "country": "Steady",
       "countryCode": "STE",
-      "points": 73599,
+      "points": 73699,
       "change": 0
     }
   ]
